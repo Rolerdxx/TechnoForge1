@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TechnoForge1/static/css/main.bc250b14.css",
+    "main.js": "/TechnoForge1/static/js/main.6d388829.js",
+    "static/js/787.b2e1b36e.chunk.js": "/TechnoForge1/static/js/787.b2e1b36e.chunk.js",
+    "static/media/file1.gif": "/TechnoForge1/static/media/file1.0a45d5a7760848f9f65c.gif",
+    "static/media/file22.gif": "/TechnoForge1/static/media/file22.8d5e01824e876fd9328e.gif",
+    "static/media/a7nberr4.bmp": "/TechnoForge1/static/media/a7nberr4.111e5a315058b329f2dc.bmp",
+    "static/media/36uws4ms.bmp": "/TechnoForge1/static/media/36uws4ms.f4b7da6f24b60bd2f9d2.bmp",
+    "static/media/TechnoForge-removebg-preview.png": "/TechnoForge1/static/media/TechnoForge-removebg-preview.6eaef2dd1388e3e2d755.png",
+    "index.html": "/TechnoForge1/index.html",
+    "main.bc250b14.css.map": "/TechnoForge1/static/css/main.bc250b14.css.map",
+    "main.6d388829.js.map": "/TechnoForge1/static/js/main.6d388829.js.map",
+    "787.b2e1b36e.chunk.js.map": "/TechnoForge1/static/js/787.b2e1b36e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc250b14.css",
+    "static/js/main.6d388829.js"
+  ]
+}
